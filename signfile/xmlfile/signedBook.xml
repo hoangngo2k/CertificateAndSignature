@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><catalog>
+    <book id="bk101">
+        <author>Gambardella, Matthew</author>
+        <title>XML Developer's Guide</title>
+        <genre>Computer</genre>
+        <price>44.95</price>
+        <publish_date>2000-10-01</publish_date>
+        <description>An in-depth look at creating applications
+            with XML.</description>
+    </book>
+    <book id="bk102">
+        <author>Ralls, Kim</author>
+        <title>Midnight Rain</title>
+        <genre>Fantasy</genre>
+        <price>5.95</price>
+        <publish_date>2000-12-16</publish_date>
+        <description>A former architect battles corporate zombies,
+            an evil sorceress, and her own childhood to become queen
+            of the world.</description>
+    </book>
+    <book id="bk103">
+        <author>Corets, Eva</author>
+        <title>Maeve Ascendant</title>
+        <genre>Fantasy</genre>
+        <price>5.95</price>
+        <publish_date>2000-11-17</publish_date>
+        <description>After the collapse of a nanotechnology
+            society in England, the young survivors lay the
+            foundation for a new society.</description>
+    </book>
+    <book id="bk104">
+        <author>Corets, Eva</author>
+        <title>Oberon's Legacy</title>
+        <genre>Fantasy</genre>
+        <price>5.95</price>
+        <publish_date>2001-03-10</publish_date>
+        <description>In post-apocalypse England, the mysterious
+            agent known only as Oberon helps to create a new life
+            for the inhabitants of London. Sequel to Maeve
+            Ascendant.</description>
+    </book>
+    <book id="bk105">
+        <author>Corets, Eva</author>
+        <title>The Sundered Grail</title>
+        <genre>Fantasy</genre>
+        <price>5.95</price>
+        <publish_date>2001-09-10</publish_date>
+        <description>The two daughters of Maeve, half-sisters,
+            battle one another for control of England. Sequel to
+            Oberon's Legacy.</description>
+    </book>
+    <book id="bk106">
+        <author>Randall, Cynthia</author>
+        <title>Lover Birds</title>
+        <genre>Romance</genre>
+        <price>4.95</price>
+        <publish_date>2000-09-02</publish_date>
+        <description>When Carla meets Paul at an ornithology
+            conference, tempers fly as feathers get ruffled.</description>
+    </book>
+    <book id="bk107">
+        <author>Thurman, Paula</author>
+        <title>Splish Splash</title>
+        <genre>Romance</genre>
+        <price>4.95</price>
+        <publish_date>2000-11-02</publish_date>
+        <description>A deep sea diver finds true love twenty
+            thousand leagues beneath the sea.</description>
+    </book>
+    <book id="bk108">
+        <author>Knorr, Stefan</author>
+        <title>Creepy Crawlies</title>
+        <genre>Horror</genre>
+        <price>4.95</price>
+        <publish_date>2000-12-06</publish_date>
+        <description>An anthology of horror stories about roaches,
+            centipedes, scorpions  and other insects.</description>
+    </book>
+    <book id="bk109">
+        <author>Kress, Peter</author>
+        <title>Paradox Lost</title>
+        <genre>Science Fiction</genre>
+        <price>6.95</price>
+        <publish_date>2000-11-02</publish_date>
+        <description>After an inadvertant trip through a Heisenberg
+            Uncertainty Device, James Salway discovers the problems
+            of being quantum.</description>
+    </book>
+    <book id="bk110">
+        <author>O'Brien, Tim</author>
+        <title>Microsoft .NET: The Programming Bible</title>
+        <genre>Computer</genre>
+        <price>36.95</price>
+        <publish_date>2000-12-09</publish_date>
+        <description>Microsoft's .NET initiative is explored in
+            detail in this deep programmer's reference.</description>
+    </book>
+    <book id="bk111">
+        <author>O'Brien, Tim</author>
+        <title>MSXML3: A Comprehensive Guide</title>
+        <genre>Computer</genre>
+        <price>36.95</price>
+        <publish_date>2000-12-01</publish_date>
+        <description>The Microsoft MSXML3 parser is covered in
+            detail, with attention to XML DOM interfaces, XSLT processing,
+            SAX and more.</description>
+    </book>
+    <book id="bk112">
+        <author>Galos, Mike</author>
+        <title>Visual Studio 7: A Comprehensive Guide</title>
+        <genre>Computer</genre>
+        <price>49.95</price>
+        <publish_date>2001-04-16</publish_date>
+        <description>Microsoft Visual Studio 7 is explored in depth,
+            looking at how Visual Basic, Visual C++, C#, and ASP+ are
+            integrated into a comprehensive development
+            environment.</description>
+    </book>
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><DigestValue>6FZiO+BwI9XYhpqp3YHSUMa08vo=</DigestValue></Reference></SignedInfo><SignatureValue>F5sq89IxepohvUYUHRPYfMvSYJuxBoLuE4pjUb+X5ad3/N2v5EDG+Mz0r0Ld0OSFNmmcls3uoBu5&#13;
+MbGSkoydkHN9jEpYMdj7vkzC5NMNUhhs/AzI5CH98jMfo1NCdB2PrYXkH8FYpV+D04Aw9p/iY6xf&#13;
+FaNZ/sbGZxWxmx2CGVtKdIxulmVjXHTNqbYt1nQg6O44xuYt1XrmHuXBWOCa7dAeZbvLXRytFuub&#13;
+WazercB3/rHt9PuYBAxOfLIf7fnej3pmpMDjZMUlmtAMRpmRFw0HmvuAaWO9njrbkjsmMzQiy/nN&#13;
+1laDMFViTDRDGBUVdK3vUwt7k/D5pWb+ehASEA==</SignatureValue><KeyInfo><X509Data><X509SubjectName>CN=www.face.dev,OU=SV,O=PTIT,L=KTX,ST=Ha Noi,C=VN</X509SubjectName><X509Certificate>MIIDOjCCAiKgAwIBAgIEN8u0bDANBgkqhkiG9w0BAQsFADBfMQswCQYDVQQGEwJWTjEPMA0GA1UE&#13;
+CBMGSGEgTm9pMQwwCgYDVQQHEwNLVFgxDTALBgNVBAoTBFBUSVQxCzAJBgNVBAsTAlNWMRUwEwYD&#13;
+VQQDEwx3d3cuZmFjZS5kZXYwHhcNMjIxMDA2MDIwNjQ2WhcNMjUxMDA2MDIwNjQ2WjBfMQswCQYD&#13;
+VQQGEwJWTjEPMA0GA1UECBMGSGEgTm9pMQwwCgYDVQQHEwNLVFgxDTALBgNVBAoTBFBUSVQxCzAJ&#13;
+BgNVBAsTAlNWMRUwEwYDVQQDEwx3d3cuZmFjZS5kZXYwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAw&#13;
+ggEKAoIBAQCjEGxN9jpyVXPNKjVaLdy9IKvruxPRJ7WXUNwgvwCK6f5xN+FMCJJJ4XBk4wJx5hA4&#13;
+Fvgx4PqMdN6AiR3OZcQJtd0rw6LdwJ+l8wxr5EV/D5lccyih1ofszkZU5eZ+IT4c4i2E03rrIiqI&#13;
+wtV7Bt3vgYFIkDuG1P71qy9h6tzEgSSy4LnAKfnTE3kz4Zx51Xqd8EVqoT+lTxZ5CDz36zxdva+x&#13;
+U819tkkMKWVuHvExTtP6kNnY8GsP1Y85FMMNDkFExpib4awzBt0engROrTneAqyDQTGUZH438/cO&#13;
+38JhSV9TYG/Ahxs2VEqdPqVdtYtv/OzRQ1YcarTYbV2+Jd/dAgMBAAEwDQYJKoZIhvcNAQELBQAD&#13;
+ggEBAHj6IYsv9PeGeIGQeUbR/DkIZ2qIA4ONf0zcxIhRRdoOAeuun7fyXXvZrgFUUzXCI+jGATJN&#13;
+wFJBm755ZZDfgJKKzKR90OiepqKvZJ6ldkqYkcmuSLmsMPkgX4ppHyE7GIBJS7+Cvjm3ZcleuRAc&#13;
+BX4VNuydgoG6uh8RDkhPk5jXvXx1v5qrT+Q7d2PGv6NhEcJD8skxf29lYCbR3LEMP5Lss7r6qaYA&#13;
+8Nr6DNTtrhQM5GDe2jfoVY4lbpimqimIZbixvZjKbZgb+7rc+P+dhc8YDbQdaAg0nk2YoIXXAnMH&#13;
+8etf3JfDBpzmD4XjW85Tl1pEu/EZBGuwQpPwDsc8Ixc=</X509Certificate></X509Data></KeyInfo></Signature></catalog>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><?xml-stylesheet type='text/xsl'?>
+<CATALOG>
+    <CD>
+        <TITLE>dill diya galla</TITLE>
+        <ARTIST>Arijit singh</ARTIST>
+        <COUNTRY>India</COUNTRY>
+        <COMPANY>tseries</COMPANY>
+        <PRICE>10.90</PRICE>
+        <YEAR>2018</YEAR>
+    </CD>
+    <CD>
+        <TITLE>Saiyara</TITLE>
+        <ARTIST>Atif Aslam</ARTIST>
+        <COUNTRY>Uk</COUNTRY>
+        <COMPANY>Records</COMPANY>
+        <PRICE>9.90</PRICE>
+        <YEAR>2015</YEAR>
+    </CD>
+    <CD>
+        <TITLE>Khairiyat</TITLE>
+        <ARTIST>Sonu nigam</ARTIST>
+        <COUNTRY>india</COUNTRY>
+        <COMPANY>radio</COMPANY>
+        <PRICE>9.90</PRICE>
+        <YEAR>2019</YEAR>
+    </CD>
+    <CD>
+        <TITLE>all is well</TITLE>
+        <ARTIST>Amir Khan</ARTIST>
+        <COUNTRY>pak</COUNTRY>
+        <COMPANY>Virgin records</COMPANY>
+        <PRICE>10.20</PRICE>
+        <YEAR>2012</YEAR>
+    </CD>
+    <CD>
+        <TITLE>rockstar</TITLE>
+        <ARTIST>kk</ARTIST>
+        <COUNTRY>india</COUNTRY>
+        <COMPANY>Eros</COMPANY>
+        <PRICE>9.90</PRICE>
+        <YEAR>2014</YEAR>
+    </CD>
+    <Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
+        <SignedInfo>
+            <CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+            <SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+            <Reference URI="">
+                <Transforms>
+                    <Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+                </Transforms>
+                <DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+                <DigestValue>upTG0zimkgtKx5yUAaiPod69SqQ=</DigestValue>
+            </Reference>
+        </SignedInfo>
+        <SignatureValue>I7jbeIFdeS1xbfbz0xZVSkGOYHE6lpIRJhuEJUh7dZUtAVxmkBH727ejF3zIOiuw/Z4DFBgMNlvs&#13;
+            CimfHhMEj7/X/ppGJxVQX1uLOf9Odo0rmRaw+gcBLqXJsqzTo1wBHvwLnMYjRhicU0A9WYwROe5I&#13;
+            6cYzduNXoO3i7z96QJJDzWIikZVV3ssDMvN0F5c2o/KDDzViONzcNab3zDCQpBdBBPS4bK4pGbAI&#13;
+            SMXNla60pDOwZ9O6orTP1Sl1vDvzjy0S7XYIBzDjjc847fHm1wZOdM971odm8GDpPiQfWvoW8Nr/&#13;
+            KLSV1T+9COgL4DZF5C6IDjkD/+BHM0kk+e87ZA==
+        </SignatureValue>
+        <KeyInfo>
+            <X509Data>
+                <X509SubjectName>CN=www.face.dev,OU=SV,O=PTIT,L=KTX,ST=Ha Noi,C=VN</X509SubjectName>
+                <X509Certificate>MIIDOjCCAiKgAwIBAgIEA4G9pTANBgkqhkiG9w0BAQsFADBfMQswCQYDVQQGEwJWTjEPMA0GA1UE&#13;
+                    CBMGSGEgTm9pMQwwCgYDVQQHEwNLVFgxDTALBgNVBAoTBFBUSVQxCzAJBgNVBAsTAlNWMRUwEwYD&#13;
+                    VQQDEwx3d3cuZmFjZS5kZXYwHhcNMjIxMDA2MDIyMjQ5WhcNMjUxMDA2MDIyMjQ5WjBfMQswCQYD&#13;
+                    VQQGEwJWTjEPMA0GA1UECBMGSGEgTm9pMQwwCgYDVQQHEwNLVFgxDTALBgNVBAoTBFBUSVQxCzAJ&#13;
+                    BgNVBAsTAlNWMRUwEwYDVQQDEwx3d3cuZmFjZS5kZXYwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAw&#13;
+                    ggEKAoIBAQCL7+c+QwNuH7tLgRwULIFHC1JA9pjj0gtJ0dPPXR7Y6KZf5qTeRMXrg8pwZ4S+0iPE&#13;
+                    9LhEQlel3eyNDm9KjsHRAUaEFEDqgtGzEimdyDw2+U4DE4bPaFC0JlMErQgvIvHZ/C365bFt7M1t&#13;
+                    2BmX25wj2PxVCeaKd3DCqGAQ7Zt0avSmMc3ewyCPQ9MW4tLgGj69mCcbzBtTr2Q5uObC+iy1BKXT&#13;
+                    4+sk7YIlqHndHHs+slaLeJXvWvcvvoPWhdtjl9jL4NKFB1nrTOFUFZS6Mey8kiomdVdeFT+UPN5m&#13;
+                    OOlElx9UURJr40AAfVmsl4CQA8C6m7LcvwDauRcr25mUd2fZAgMBAAEwDQYJKoZIhvcNAQELBQAD&#13;
+                    ggEBAEbpbriLTzTG+P5D6cDY+alML+UHp2j9OoxrQC9RtUFRiXiOT6vUuU0+IySI37UU4IObLYiw&#13;
+                    VQ3lu/WGne+vRSR82T8eeBKA5y2ZHkWvmT77DaGjB3XK67WUTzJVjgPxfDfsLRju57xDXpKfCCBp&#13;
+                    o1O6dDuX6h97kX/v7TvJstxFNm4BSHq39MYwbesWFf5diMAWKdC0Pm0O3sXB/OXu1XBzmuAqRQRX&#13;
+                    DrLL5/HS9ShgDUfplCA6FIvvjbNwpW2zHNXbBA+mVVp6kB202O7hQH/jgZySM8n3hsoh6cYXzwT9&#13;
+                    j+jl2/sd0sdBf24/lummw5XLjzHXQ5O7GI3X4ppvjLs=
+                </X509Certificate>
+            </X509Data>
+        </KeyInfo>
+    </Signature>
+</CATALOG>

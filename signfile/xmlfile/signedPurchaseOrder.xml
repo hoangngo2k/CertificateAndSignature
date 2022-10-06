@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<PurchaseOrder>
+    <Item number="130046593231">
+        <Description>Video Game</Description>
+        <Price>10.29</Price>
+    </Item>
+    <Buyer id="8492340">
+        <Name>My Name</Name>
+        <Address>
+            <Street>One Network Drive</Street>
+            <Town>Burlington</Town>
+            <State>MA</State>
+            <Country>United States</Country>
+            <PostalCode>01803</PostalCode>
+        </Address>
+    </Buyer>
+    <Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
+        <SignedInfo>
+            <CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+            <SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+            <Reference URI="">
+                <Transforms>
+                    <Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+                </Transforms>
+                <DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+                <DigestValue>muObl4AVSdHjbeIfcUlrapBsIIQ=</DigestValue>
+            </Reference>
+        </SignedInfo>
+        <SignatureValue>Eya7vOEYK3mrTdR3fhFSKae4SCPfHC7s2yzmS7iUsVgLy5huyZxRAI3OQ0dDCTcQN23g7JyK5byd&#13;
+            TxFTsdR6DT+2gd3YTho7xJGvC5pwW6TWTRHTmGkhBLtYabiMrNgOqut4BjNBtbBLMBrh8PQuMEf9&#13;
+            Ks6130eAZioDpEmW39SOehxHDMHBSkB2F8EdiH4Ie0ZR47nxgMfVrQ2SnyEarnFkdAMF7u/v+7bz&#13;
+            bPQQO16mJ10rwtGq7QwzzyO7zXLseccR/r7BNOsh3mccbroapiYfPfQ91uxSCjM1wyAjC563H+ZZ&#13;
+            os8uJMVat4OzGb+4h73NzK6nSEHE61Lz9UyAGg==
+        </SignatureValue>
+        <KeyInfo>
+            <X509Data>
+                <X509SubjectName>CN=cn,L=l,O=o,C=c,ST=st</X509SubjectName>
+                <X509Certificate>MIIC+jCCAeKgAwIBAgIGAYOd4/P7MA0GCSqGSIb3DQEBCwUAMD4xCzAJBgNVBAgTAnN0MQowCAYD&#13;
+                    VQQGEwFjMQowCAYDVQQKEwFvMQowCAYDVQQHEwFsMQswCQYDVQQDEwJjbjAeFw0yMjEwMDIxMjQ4&#13;
+                    MjVaFw0zMjA5MzAxMjQ4MjVaMD4xCzAJBgNVBAgTAnN0MQowCAYDVQQGEwFjMQowCAYDVQQKEwFv&#13;
+                    MQowCAYDVQQHEwFsMQswCQYDVQQDEwJjbjCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEB&#13;
+                    AJr2Ym0JWmovzaZPHzj4HgspehfsMKsLXb3sRjIwjylT9dqlGrvk52DspXe59etyW14yRMUWqEIy&#13;
+                    pAP5/44YkD9xLoLR+IWEpzgihox7++aUzFuglJpeSss2kWaXI9IVbIasDeG323DN1DusJ4FjRN6L&#13;
+                    kxkBJkZ2//HwnRYMJBsA6EmfkBo3Mh04wraEiGD73MPKcotEhrSeGKVagQOy6KhT7j3Unpsp9cl0&#13;
+                    LwI0iMyx1e1lRbH2terFP75quGkpqxMW9QwEp0mKXjrOowAxuXxcLHZtO/XhcqGl+J/o4OnFanRV&#13;
+                    HdStMhpnbsorYxLJVjpDaYi44keJvaLFks5TI/8CAwEAATANBgkqhkiG9w0BAQsFAAOCAQEAJBnL&#13;
+                    rtzDxE/a1FjbUKcRSiDIXOBx15rPO2AdNm4JMOjLfOojb181wEiXeK5nOffZECeUuo0H8aRrvX25&#13;
+                    2HhAXfAbmw8MLYqZLvIir257iWE7CbJJd61U9I7AcCFMkG2rTTBKlbGPLo5oLlTwtAa93nbNbA1O&#13;
+                    0ghK8cBNv6i9NX6kddNCZy9hGB/aOerfWtmvZGdJHtZ6zhRiVTb/Fwm+JFdn86PDgoB0rqbH5SkB&#13;
+                    B0zl7DZYgcxt2Tvuk5+2aq9RjIpzg6ReCSdgYCuYW1AM+8DoTBlvC5WQTdPqWQRffFFVjvYLNb95&#13;
+                    btcZ/FptWnwB9XK5v/8bmBBchrCgoQXsmA==
+                </X509Certificate>
+            </X509Data>
+        </KeyInfo>
+    </Signature>
+</PurchaseOrder>
